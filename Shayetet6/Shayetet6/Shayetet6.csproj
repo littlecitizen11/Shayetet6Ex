@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Reference Include="MenuBuilder">
-      <HintPath>..\..\MenuBuilder\MenuBuilder\MenuBuilder\bin\Debug\netcoreapp3.1\MenuBuilder.dll</HintPath>
+      <HintPath>..\..\..\MenuBuilder\MenuBuilder\MenuBuilder\bin\Debug\netcoreapp3.1\MenuBuilder.dll</HintPath>
     </Reference>
   </ItemGroup>
 

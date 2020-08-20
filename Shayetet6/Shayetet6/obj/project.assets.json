@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Shayetet6\\Shayetet6\\Shayetet6.csproj",
+      "projectUniqueName": "C:\\Code\\Shayetet6Ex\\Shayetet6\\Shayetet6\\Shayetet6.csproj",
       "projectName": "Shayetet6",
-      "projectPath": "C:\\Code\\Shayetet6\\Shayetet6\\Shayetet6.csproj",
+      "projectPath": "C:\\Code\\Shayetet6Ex\\Shayetet6\\Shayetet6\\Shayetet6.csproj",
       "packagesPath": "C:\\Users\\thelittlecitizen11\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Shayetet6\\Shayetet6\\obj\\",
+      "outputPath": "C:\\Code\\Shayetet6Ex\\Shayetet6\\Shayetet6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thelittlecitizen11\\AppData\\Roaming\\NuGet\\NuGet.Config",
